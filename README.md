@@ -16,6 +16,7 @@
     <span>I'm self-taught, active on GitHub, and always working on something new, whether it's a personal project or just experimenting with ideas.</span>
     <span>!</span>
 </p>
+<br>
 <p align="center">
     <img src="https://trophy.ryglcloud.net/?username=m4lxn-cloudX&theme=radical&row=1&column=7&no-frame=true" width="100%" />
 </p>
