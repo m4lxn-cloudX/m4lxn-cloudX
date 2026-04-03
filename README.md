@@ -14,20 +14,17 @@
 </p>
 
 <!-- About + Lanyard -->
-<table>
-  <tr>
-    <td valign="top" width="65%">
-        <p align="center">
-            <span>Hey, I'm Milan — aka m4lxn_cloudX</span>.
-            <br>
-            <span>based in Germany. I started coding at 12 and never really stopped. What began as pure curiosity turned into a real passion for building things on the web.</span>
-            <span>I specialize in web development, crafting websites and interfaces from scratch using HTML, CSS, and JavaScript — all alongside school.</span>
-            <br>
-            <span>I'm self-taught, active on GitHub, and always working on something new, whether it's a personal project or just experimenting with ideas.</span>
-            <span>!</span>
-        </p>
-    </td>
-    <td valign="top" align="right">
+<img align="left" height="100%" src="https://lanyard.cnrad.dev/api/1215682123219079259"/>
+<p align="center">
+    <span>Hey there, I am itsmarian</span>.
+    <br>
+    <span>I'm a developer and designer with a versatile skill set across several disciplines. My journey began at age 12, building simple websites and forms in HTML.</span>
+    <span>Over the years, I've broadened my expertise to encompass UI/UX design, Discord bots, and custom BetterDiscord* CSS snippets. I thrive on transforming complex concepts into elegant, user-friendly, and modern solutions.</span>
+    <br>
+    <span>Learn more about me and play my projects on</span>
+    <a href="https://itsmarian.dev/" target="_blank">my website</a>
+    <span>!</span>
+</p>
       <img src="https://lanyard.cnrad.dev/api/1215682123219079259"/>
     </td>
   </tr>
