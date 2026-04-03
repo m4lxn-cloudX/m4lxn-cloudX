@@ -14,7 +14,7 @@
 </p>
 
 <!-- About -->
-<p align="center">
+<p align="left">
     <span>Hey, I'm Milan — aka m4lxn_cloudX</span>.
     <br>
     <span>based in Germany. I started coding at 12 and never really stopped. What began as pure curiosity turned into a real passion for building things on the web.</span>
