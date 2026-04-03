@@ -17,6 +17,8 @@
     <span>!</span>
 </p>
 <br>
+<hr>
+<br>
 <p align="center">
     <img src="https://trophy.ryglcloud.net/?username=m4lxn-cloudX&theme=radical&row=1&column=7&no-frame=true" width="100%" />
 </p>
