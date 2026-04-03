@@ -8,6 +8,9 @@
         <img height="40" src="">
     </a>
 </p>
+
+<br>
+
 <img align="left" height="100%" src="https://lanyard.cnrad.dev/api/1215682123219079259"/>
 <p align="center">
     <span>Hey, I'm Milan — aka m4lxn_cloudX</span>.
@@ -18,9 +21,9 @@
     <span>I'm self-taught, active on GitHub, and always working on something new, whether it's a personal project or just experimenting with ideas.</span>
     <span>!</span>
 </p>
-<br>
-<hr>
-<br>
+
+<br><hr><br>
+
 <p align="center">
     <img src="https://trophy.ryglcloud.net/?username=m4lxn-cloudX&theme=radical&row=1&column=7&no-frame=true" width="100%" />
 </p>
