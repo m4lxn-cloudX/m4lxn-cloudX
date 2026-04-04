@@ -1,12 +1,10 @@
 # m4lxn-cloudX
 <hr>
-    <button onclick="location.href='https://m4lxn-cloudx.github.io/' " style="height: 30px; width: 140px; border: 0.5px #ccc; border-radius: 10px;">Visit the Website</button>
-    
-    <button onclick="location.href='https://m4lxn-cloudx.github.io/linktree/' " style="height: 30px; width: 140px; border: 0.5px #ccc; border-radius: 10px;">Visit my Linktree</button>
-    
-
+<p align="center">
+    <a href="https://m4lxn-cloudx.github.io/" rel="nofollow">Visit my Website</a>
+    <a href="https://m4lxn-cloudx.github.io/linktree/" rel="nofollow">Visit my Linkter</a>
+</p>
 <br>
-
 <img align="left" height="100%" src="https://lanyard.cnrad.dev/api/1215682123219079259"/>
 <p align="center">
     <span>Hey, I'm Milan — aka m4lxn_cloudX</span>.
@@ -16,10 +14,4 @@
     <br>
     <span>I'm self-taught, active on GitHub, and always working on something new, whether it's a personal project or just experimenting with ideas.</span>
     <span>!</span>
-</p>
-
-<br><hr><br>
-
-<p align="center">
-    <img src="https://trophy.ryglcloud.net/?username=m4lxn-cloudX&theme=radical&row=1&column=7&no-frame=true" width="100%" />
 </p>
