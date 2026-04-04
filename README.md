@@ -1,11 +1,9 @@
 # m4lxn-cloudX
 <hr>
 <p align="center">
-    <a href="https://m4lxn-cloudx.github.io/" rel="nofollow">
-        <img height="40" src="">
+        <button onclick="location.href='https://m4lxn-cloudx.github.io/' " style="height: 30px; width: 140px; border: 0.5px #ccc; border-radius: 10px;">Visit the Website</button>
     </a>
-    <a href="https://m4lxn-cloudx.github.io/linktree/" rel="nofollow">
-        <img height="40" src="">
+        <button onclick="https://m4lxn-cloudx.github.io/linktree/' " style="height: 30px; width: 140px; border: 0.5px #ccc; border-radius: 10px;">Visit my Linktree</button>
     </a>
 </p>
 
