@@ -1,11 +1,9 @@
 # m4lxn-cloudX
 <hr>
-<p align="center">
-        <button onclick="location.href='https://m4lxn-cloudx.github.io/' " style="height: 30px; width: 140px; border: 0.5px #ccc; border-radius: 10px;">Visit the Website</button>
-    </a>
-        <button onclick="https://m4lxn-cloudx.github.io/linktree/' " style="height: 30px; width: 140px; border: 0.5px #ccc; border-radius: 10px;">Visit my Linktree</button>
-    </a>
-</p>
+    <button onclick="location.href='https://m4lxn-cloudx.github.io/' " style="height: 30px; width: 140px; border: 0.5px #ccc; border-radius: 10px;">Visit the Website</button>
+    
+    <button onclick="location.href='https://m4lxn-cloudx.github.io/linktree/' " style="height: 30px; width: 140px; border: 0.5px #ccc; border-radius: 10px;">Visit my Linktree</button>
+    
 
 <br>
 
