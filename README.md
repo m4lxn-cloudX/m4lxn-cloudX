@@ -2,7 +2,7 @@
 <hr>
 <p align="center">
     <a href="https://m4lxn-cloudx.github.io/" rel="nofollow">Visit my Website</a>
-    <a href="https://m4lxn-cloudx.github.io/linktree/" rel="nofollow">Visit my Linkter</a>
+    <a href="https://m4lxn-cloudx.github.io/linktree/" rel="nofollow">Visit my Linktree</a>
 </p>
 <br>
 <img align="left" height="100%" src="https://lanyard.cnrad.dev/api/1215682123219079259"/>
